@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ExpandableList的父级菜单布局 -->
+<RelativeLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/CommonStyle_rl" >
+
+    <TextView
+        android:id="@+id/view_title"
+        style="@style/CommonStyle_tv"
+        android:paddingLeft="40dp"
+        android:textSize="20sp" />
+
+</RelativeLayout >

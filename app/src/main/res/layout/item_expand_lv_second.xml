@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?><!-- expandableList 的子级条目布局 -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/CommonStyle_rl"
+    >
+
+    <TextView
+        android:id="@+id/view_title"
+        style="@style/CommonStyle_tv"
+        android:paddingLeft="50dp"
+        android:textSize="18sp" />
+
+
+</RelativeLayout>
